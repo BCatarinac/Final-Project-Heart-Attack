@@ -1,6 +1,0 @@
-.env
-.DS_Store
-environment/
-requirements*.in
-.ipynb_checkpoints/
-notebooks/__pycache__/
